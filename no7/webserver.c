@@ -1,4 +1,4 @@
-/*20153292 JeongHyeonjin*/
+
 
 #include <stdio.h>
 #include <stdlib.h> 
